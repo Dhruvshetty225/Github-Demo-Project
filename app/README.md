@@ -1,4 +1,4 @@
-# Demo App
+# Demo App Run Instructions
 A tiny CLI greeter used to demonstrate commits, branches, and pull requests.
 
 ## Example usage (for documentation only)
